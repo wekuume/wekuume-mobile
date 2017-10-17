@@ -1,0 +1,12 @@
+{
+  "name": "openmentoring-mobile",
+  "app_id": "org.iilab.openmentoring",
+  "type": "ionic1",
+  "integrations": {},
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}

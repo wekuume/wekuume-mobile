@@ -308,7 +308,7 @@ angular.module('starter.controllers', ['starter.services'])
           console.log(message.versionCode);
           console.log(message.applicationInfo);
           window.isOrbotInstalled = true;
-          navigator.startApp.start([["action", "org.torproject.android.intent.action.START", "org.torproject.android"],[{"org.torproject.android.intent.extra.PACKAGE_NAME":"org.iilab.openmentoring"}]], function(message) { /* success */
+          navigator.startApp.start([["action", "org.torproject.android.intent.action.START", "org.torproject.android"],[{"org.torproject.android.intent.extra.PACKAGE_NAME":"org.cipher.wekuume"}]], function(message) { /* success */
             console.log(message); // => OK
             dfd.resolve();
           },

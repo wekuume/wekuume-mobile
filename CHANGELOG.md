@@ -11,7 +11,7 @@ From version 0.1.0 forward, this project adheres to [Semantic Versioning](http:/
 
 ## [0.1.0] - 2016-01-22
 ### Added
-- Allow units to be linked from the web or other apps using ```openmentoring://``` custom urls
+- Allow units to be linked from the web or other apps using ```wekuume://``` custom urls
 - Allow units to link to eachother
 - If the user follows a link to a unit that has not been downloaded, prompt the user to download the topic
 - Show an activity indicator when downloading a topic

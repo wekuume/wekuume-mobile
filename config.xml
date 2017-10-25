@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="org.iilab.openmentoring" version="0.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="org.cipher.wekuume" version="0.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Wekuume</name>
   <description>
         Client app for the Wekuume content platform
     </description>
-  <author email="contact@iilab.org" href="http://iilab.org/">
+  <author email="team@cihper256.com" href="http://cipher256.come/">
       iilab team
     </author>
   <content src="index.html"/>

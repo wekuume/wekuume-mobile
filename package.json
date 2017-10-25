@@ -1,16 +1,16 @@
 {
-  "name": "openmentoring-mobile",
-  "version": "0.1.1",
-  "description": "Client app for the Open Mentoring content platform",
+  "name": "wekuume-mobile",
+  "version": "0.1",
+  "description": "Client app for the Wekuume content platform",
   "license": "GPL",
   "repository": {
     "type": "git",
     "url": "git://github.com/iilab/openmentoring-mobile.git"
   },
   "bugs": {
-    "url": "https://github.com/iilab/openmentoring-mobile/issues"
+    "url": "https://github.com/wekuume/wekuume-mobile/issues"
   },
-  "homepage": "https://github.com/iilab/openmentoring-mobile",
+  "homepage": "https://github.com/wekuume/wekuume-mobile",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
